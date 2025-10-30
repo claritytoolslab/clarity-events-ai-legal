@@ -1,6 +1,6 @@
 # Terms of Service for Clarity Events AI
 
-**Last Updated:** October 26, 2025
+**Last Updated:** October 30, 2025
 
 ## 1. Acceptance of Terms
 
@@ -43,10 +43,10 @@ You agree to:
 
 You agree NOT to:
 - ❌ Use the app for illegal activities
-- ❌ Share your API keys with others
+- ❌ Share your API keys or Google credentials with others
 - ❌ Attempt to bypass subscription limits
 - ❌ Use the app to spam or harass others
-- ❌ Violate OpenAI's usage policies
+- ❌ Violate OpenAI's or Google's usage policies
 
 ## 5. Intellectual Property
 
@@ -54,11 +54,21 @@ You agree NOT to:
 - You are granted a limited, non-exclusive license to use the app
 - You may not copy, modify, distribute, or reverse engineer the app
 
-## 6. OpenAI Usage
+## 6. AI Service Usage
 
-This app uses OpenAI's GPT API to process your data. By using this app, you also agree to:
-- OpenAI's Terms of Use: https://openai.com/policies/terms-of-use
-- OpenAI's Usage Policies: https://openai.com/policies/usage-policies
+This app uses AI services to process your data. Depending on which mode you choose:
+
+**Apple Mode:**
+- Uses OpenAI's GPT API
+- OpenAI Terms: https://openai.com/policies/terms-of-use
+- OpenAI Usage Policies: https://openai.com/policies/usage-policies
+
+**Google Mode:**
+- Uses Google Gemini API
+- Google Gemini Terms: https://ai.google.dev/gemini-api/terms
+- Google APIs Terms: https://developers.google.com/terms
+
+By using this app, you agree to the terms of the AI service provider you choose.
 
 ## 7. Disclaimer of Warranties
 
@@ -86,16 +96,40 @@ Your privacy is important to us. Please review our Privacy Policy to understand 
 
 ## 10. Calendar and Reminder Access
 
-- The app requires permission to access your Calendar and Reminders
-- You can revoke these permissions anytime in iPhone Settings
-- The app only reads/writes data with your explicit permission
+**Apple Mode:**
+- Requires permission to access Apple Calendar and Reminders
+- Permissions managed in iPhone Settings
+
+**Google Mode:**
+- Requires Google Sign-In and OAuth permissions
+- Access to Google Calendar and Google Tasks
+- You can revoke Google access anytime in Google Account settings
+
+The app only reads/writes data with your explicit permission.
 
 ## 11. Third-Party Services
 
 The app uses third-party services:
-- **OpenAI**: For AI processing (subject to OpenAI's terms)
+
+**AI Services:**
+- **OpenAI GPT**: For AI processing in Apple mode (subject to OpenAI's terms)
+  - OpenAI Terms: https://openai.com/policies/terms-of-use
+- **Google Gemini**: For AI processing in Google mode (subject to Google's terms)
+  - Google Gemini Terms: https://ai.google.dev/gemini-api/terms
+
+**Calendar & Task Services:**
+- **Apple Calendar/Reminders**: For saving events in Apple mode (subject to Apple's terms)
+- **Google Calendar API**: For saving events in Google mode (subject to Google's terms)
+  - Google APIs Terms: https://developers.google.com/terms
+- **Google Tasks API**: For saving tasks in Google mode (subject to Google's terms)
+- **Google Sign-In**: For authentication in Google mode (subject to Google's terms)
+  - Google OAuth Privacy: https://developers.google.com/identity/protocols/oauth2
+
+**Infrastructure & Payments:**
+- **Supabase**: Edge Functions as secure proxy for AI API requests (subject to Supabase's terms)
+  - Supabase Terms: https://supabase.com/terms
 - **RevenueCat**: For subscription management (subject to RevenueCat's terms)
-- **Apple Calendar/Reminders**: For saving events (subject to Apple's terms)
+  - RevenueCat Terms: https://www.revenuecat.com/terms
 
 ## 12. Termination
 
