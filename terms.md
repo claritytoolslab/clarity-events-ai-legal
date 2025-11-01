@@ -1,14 +1,14 @@
-# Terms of Service for Clarity Events AI
+# Terms of Service for Snap2Plan
 
 **Last Updated:** October 30, 2025
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Clarity Events AI ("the app"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the app.
+By downloading, installing, or using Snap2Plan ("the app"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the app.
 
 ## 2. Description of Service
 
-Clarity Events AI is a mobile application that uses artificial intelligence (AI) to extract calendar events and reminders from text and images. The app provides:
+Snap2Plan is a mobile application that uses artificial intelligence (AI) to extract calendar events and reminders from text and images. The app provides:
 
 - **Free Trial**: 25 AI queries and 7 days of free access
 - **Pro Subscription**: Unlimited AI queries for €0.99 per month after a 7-day free trial
@@ -167,12 +167,12 @@ Any disputes arising from these Terms or use of the app shall be resolved throug
 For questions, support, or legal inquiries:
 
 **Email**: kettunen.miika@gmail.com
-**App Name**: Clarity Events AI
+**App Name**: Snap2Plan
 **Developer**: Miika Kettunen
 
 ## 17. Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and Clarity Events AI regarding use of the app.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and Snap2Plan regarding use of the app.
 
 ## 18. Severability
 
@@ -180,4 +180,4 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 ---
 
-**By using Clarity Events AI, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.**
+**By using Snap2Plan, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.**

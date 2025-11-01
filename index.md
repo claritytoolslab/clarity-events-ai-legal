@@ -3,9 +3,9 @@ layout: default
 title: Legal Documents
 ---
 
-# Clarity Events AI - Legal Documents
+# Snap2Plan - Legal Documents
 
-Welcome to the legal documentation for Clarity Events AI.
+Welcome to the legal documentation for Snap2Plan.
 
 ## Documents
 
@@ -15,9 +15,9 @@ Welcome to the legal documentation for Clarity Events AI.
 
 ---
 
-## About Clarity Events AI
+## About Snap2Plan
 
-Clarity Events AI is an iOS application that uses artificial intelligence to extract calendar events and reminders from text and images.
+Snap2Plan is an iOS application that uses artificial intelligence to extract calendar events and reminders from text and images.
 
 ### Features
 - ✨ AI-powered event extraction from screenshots and text

@@ -1,10 +1,10 @@
-# Privacy Policy for Clarity Events AI
+# Privacy Policy for Snap2Plan
 
 **Last Updated:** October 30, 2025
 
 ## Introduction
 
-Clarity Events AI ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application.
+Snap2Plan ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application.
 
 ## Information We Collect
 
