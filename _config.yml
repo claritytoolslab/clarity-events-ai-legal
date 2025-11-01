@@ -2,3 +2,8 @@ title: Clarity Events AI - Legal
 description: Privacy Policy and Terms of Service for Clarity Events AI
 theme: jekyll-theme-minimal
 show_downloads: false
+
+# Disable GitHub metadata and branding
+github: [metadata]
+repository: ""
+is_project_page: false
